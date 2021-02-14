@@ -22,7 +22,8 @@ Step-by-Step: https://drive.google.com/file/d/1eapsKGqxWFVmKF_CxHgaslJXQ7GSUk9d/
 
 ## Usage 
 
- ![README](/assets/node index.png)
+ ![README](/assets/nodeindex.png)
+Format: ![Alt Text](url)
 
 
 ## Credits
