@@ -6,7 +6,7 @@ Generate README
 A README generator to simplify creating projects.
 
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 
 * [Installation](#installation)
