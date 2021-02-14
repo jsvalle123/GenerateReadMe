@@ -22,7 +22,7 @@ Step-by-Step: https://drive.google.com/file/d/1eapsKGqxWFVmKF_CxHgaslJXQ7GSUk9d/
 
 ## Usage 
 
- ![README](/assets/node index.js)
+ ![README](/assets/node index.png)
 
 
 ## Credits
@@ -32,4 +32,16 @@ Step-by-Step: https://drive.google.com/file/d/1eapsKGqxWFVmKF_CxHgaslJXQ7GSUk9d/
 
 
 ## License
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+
+
+## Contributing
+
+ [Contributor Covenant](https://www.contributor-covenant.org/) 
+
+
+
 
