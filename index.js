@@ -57,7 +57,9 @@ function promptUser(){
       }
     ]).then((answers) => {
       console.log(answers);
+      return answers;
     });
+    
   }
   
   
@@ -65,9 +67,9 @@ function promptUser(){
   async function init() {
     try {
       const answers = await promptUser();
-      const generateContent = generateReadme(answers);
+      const generateMarkdown = generateReadme(answers);
 
-      await writeFileAsync('./README.md', generateContent);
+      await writeFileAsync('./README.md', generateMarkdown);
       console.log('Successfully added to README');
     } catch(err) {
       console.log(err);
